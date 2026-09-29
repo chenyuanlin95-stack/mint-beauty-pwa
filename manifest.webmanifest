@@ -1,0 +1,12 @@
+{
+  "name": "Mint Beauty · 我的变美说明书",
+  "short_name": "Mint Beauty",
+  "description": "私人护肤、化妆、肌肤日历与穿搭记录工具",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbfcf7",
+  "theme_color": "#78b98d",
+  "orientation": "portrait-primary",
+  "icons": [{"src":"beauty-assets/app-icon.png","sizes":"1024x1024","type":"image/png","purpose":"any maskable"}]
+}
